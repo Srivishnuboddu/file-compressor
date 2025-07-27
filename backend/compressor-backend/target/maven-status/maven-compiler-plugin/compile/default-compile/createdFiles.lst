@@ -1,4 +1,5 @@
-main\java\com\filecompressor\controller\FileCompressorController.class
-main\java\com\filecompressor\FileUploadController.class
-main\java\com\filecompressor\CompressorBackendApplication.class
-main\java\com\filecompressor\controller\TestController.class
+com\filecompressor\CompressorBackendApplication.class
+com\filecompressor\controller\TestController.class
+com\filecompressor\FileUploadController.class
+com\filecompressor\controller\FileCompressorController$CompressionResult.class
+com\filecompressor\controller\FileCompressorController.class
