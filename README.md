@@ -50,10 +50,12 @@ run these commands :
 
 🌐 Frontend Setup
 cd frontend
-npm install
-npm start
+1. npm install
+2. npm start
+   
 Visit the app at: http://localhost:3000
 
 
 🙌 Credits
 Developed by ❤️ Sri Vishnu Boddu
+
