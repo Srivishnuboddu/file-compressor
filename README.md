@@ -1,4 +1,5 @@
-<img width="2837" height="1526" alt="Screenshot 2025-07-27 180503" src="https://github.com/user-attachments/assets/8d799550-3105-4adc-b55d-03a75f39f724" /># 🚀 OptiPress – Smart File Compressor
+<img width="2821" height="1527" alt="Screenshot 2026-05-11 142323" src="https://github.com/user-attachments/assets/93565525-5483-4afc-b2dd-49218aa194a2" />
+# 🚀 OptiPress – Smart File Compressor
 
 OptiPress is a modern **full-stack file compression web application** built using **React.js** and **Spring Boot**.
 It allows users to upload one or multiple files, compress them into a ZIP archive, view compression statistics, and download the optimized file instantly through a sleek dark-themed interface.
